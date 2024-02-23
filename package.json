@@ -4,8 +4,7 @@
   "description": "Make a seoURL based on the text",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch index.js",
-    "test": "node test.js"
+    "dev": "node --watch index.js"
   },
   "keywords": [
     "nodejs",
