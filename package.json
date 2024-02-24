@@ -13,7 +13,7 @@
   ],
   "type": "module",
   "author": "Em Ha Tuan",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "seo-url-cleaner": "^1.0.0"
   }
