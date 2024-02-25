@@ -1,4 +1,4 @@
-import seoURLCleaner from 'seo-url-cleaner';
+import seoURLCleaner from './index.js';
 
 let result = Object.is(
   seoURLCleaner('lorem ipsum dolor sit amet'),

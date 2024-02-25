@@ -1,10 +1,11 @@
 {
   "name": "seo-url-cleaner",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Make a seoURL based on the text",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch index.js"
+    "dev": "node --watch index.js",
+    "test": "node test.js"
   },
   "keywords": [
     "nodejs",
@@ -13,8 +14,5 @@
   ],
   "type": "module",
   "author": "Em Ha Tuan",
-  "license": "Apache-2.0",
-  "dependencies": {
-    "seo-url-cleaner": "^1.0.0"
-  }
+  "license": "MIT"
 }
