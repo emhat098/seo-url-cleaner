@@ -31,4 +31,4 @@ Contributions are welcome! If you have suggestions, bug reports, or feature requ
 
 ## License
 
-This package is licensed under the ISC License. See the [LICENSE](https://en.wikipedia.org/wiki/ISC_license) file for details.
+This package is licensed under the Apache License. See the [LICENSE](http://www.apache.org/licenses/) file for details.
